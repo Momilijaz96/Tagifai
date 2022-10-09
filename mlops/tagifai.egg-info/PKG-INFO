@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: tagifai
+Version: 0.1
+Summary: Categorize the NL articles into respective cateogry
+Home-page: https://linkedin.com/momilijaz
+Author: Momal Ijaz
+Author-email: momilijaz@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
